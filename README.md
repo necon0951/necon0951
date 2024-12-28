@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necon0951
-- 👀 I’m interested in ...
+- 👀 I’m interested in foundryVTT
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on foundryVTT
 - 📫 How to reach me ...
